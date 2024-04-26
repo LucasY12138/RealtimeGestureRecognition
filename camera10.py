@@ -68,7 +68,7 @@ def open_real_cam():
         exit(0)
         
 # MARK: 加载模型的权重
-model_weights = 'G:\PolyU\CapstoneProject\Project_New\spikingjelly\logs\T16_b16_adam_lr0.001_c128_amp_cupy\checkpoint_max.pth'
+model_weights = './logs/T16_b16_adam_lr0.001_c128_amp_cupy/checkpoint_max.pth'
 device = torch.device('cuda') if torch.cuda.is_available() else torch.device('cpu')
 net = parametric_lif_net.DVSGestureNet(channels=128, spiking_neuron=neuron.LIFNode, surrogate_function=surrogate.ATan(), detach_reset=True)
 try:
