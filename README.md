@@ -55,3 +55,7 @@ After installed related libraries, just click the run/play button in the camera1
 You also are allowed to run it in termianl:
 1, cd the directory
 2, python camera10.py
+
+## Demo
+<img width="706" alt="image" src="https://github.com/LucasY12138/RealtimeGestureRecognition/assets/107993852/b0db6158-6978-45dd-af84-7fbfd5c0c1f1">
+
