@@ -4,6 +4,9 @@
 It is a capstone project about using Spiking Neuro Networks and Dynamic Vision Sensor to implement real-time gesture recognition.
 This project using Spikingjelly framework to train SNNs model. For detail information, pls review the following official website: https://spikingjelly.readthedocs.io/zh-cn/latest/activation_based/classify_dvsg.html
 
+## Matters need Attentions
+This project must be connected to the Dynamic Vision Sensor to run.
+
 ## Table of Contents
 - [Project Name](#project-name)
   - [Description](#description)
