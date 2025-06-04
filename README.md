@@ -33,7 +33,7 @@ Locate the "camera10.py" file within the cloned project.
 
 ### Install Required Libraries
 
-#### Install Pythono
+#### Install Python
 
 #### PyTorch and torchvision
 Ensure that PyTorch and torchvision are installed. If not, you can install them using the following command:
@@ -55,7 +55,7 @@ pip install opencv-python
 
 ## Usage
 After installed related libraries, just click the run/play button in the camera10.py, which is located VS code right top.
-You also are allowed to run it in termianl:
+You also are allowed to run it in terminal:
 1, cd the directory
 2, python camera10.py
 
